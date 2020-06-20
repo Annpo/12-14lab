@@ -1,0 +1,60 @@
+{
+  "notes": [
+    {
+      "star": false,
+      "name": "Расулов",
+      "surname": "Гасанбег",
+      "phone": "79999999999",
+      "id": 1
+    },
+    {
+      "star": false,
+      "name": "Свобода",
+      "surname": "Павел",
+      "phone": "78888888888",
+      "id": 2
+    },
+    {
+      "star": true,
+      "name": "Изменённый ",
+      "surname": "Контакт",
+      "phone": "77777777777",
+      "id": 3
+    },
+    {
+      "star": true,
+      "name": "Анна",
+      "surname": "Поцелуйко",
+      "phone": "79666666666",
+      "id": 4
+    },
+    {
+      "name": "бвг",
+      "surname": "вгб",
+      "phone": "1342321",
+      "star": false,
+      "id": 7
+    },
+    {
+      "name": "Абвфцка",
+      "surname": "Абвфцк",
+      "phone": "23452",
+      "star": false,
+      "id": 8
+    },
+    {
+      "name": "Аааабвфцка",
+      "surname": "Аааабвфцк",
+      "phone": "23452",
+      "star": true,
+      "id": 9
+    },
+    {
+      "name": "Аааабвфцка",
+      "surname": "бвгн",
+      "phone": "23452",
+      "star": false,
+      "id": 10
+    }
+  ]
+}
